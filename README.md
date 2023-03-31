@@ -7,5 +7,5 @@ In this app, users can create a login, submit stories, "favorite" stories, filte
      <img src="app.png" alt="App">
 </p>
 
-My Contribution:
+## My Contribution:
 I was provided with a skeletal starter code for the app, including the basic styling and layout. I was expected to make AJAX requests, "get" and "post" requests, interact with the API, and develop functionality for logging in / logging out, submitting stories, favoriting, filtering by favorites / submitted, and delete submitted stories.
